@@ -1,0 +1,10 @@
+.pio/
+.pioenvs/
+.piolibdeps/
+__pycache__/
+*.o
+*.elf
+*.hex
+*.bin
+.vscode/
+.DS_Store
